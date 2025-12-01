@@ -25,7 +25,7 @@ variable "region" {
 }
 
 variable "app_name" {
-  default = "dci-final"
+  default = "ishwarya_dci_final"
 }
 
 variable "account_id" {
